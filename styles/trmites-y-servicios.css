@@ -13,7 +13,7 @@ input {
 	border: none;
 }
 body {
-  width: 144rem;
+  width: 135rem;
 }.trmites-y-servicios-T7L {
   width: 100%;
   height: 162.4rem;
@@ -21,6 +21,7 @@ body {
   overflow: hidden;
   background-color: #ffffff;
 }
+
 .trmites-y-servicios-T7L .auto-group-4tp8-Lwp {
   box-sizing: border-box;
   padding: 1.5rem 39.4rem;
@@ -130,12 +131,13 @@ body {
 }
 .trmites-y-servicios-T7L .auto-group-n7ua-NxN {
   box-sizing: border-box;
-  padding: 5rem 6rem 2.6rem 6rem;
+  padding: 5rem 3rem 2.6rem 3rem;
   width: 144rem;
   height: 108.6rem;
   position: absolute;
-  left: 0;
-  top: 44.8rem;
+  left: 52.3%; /* Ajuste para centrar horizontalmente */
+  top: 60%; /* Ajuste para centrar verticalmente */
+  transform: translate(-50%, -50%); /* Centrar en el centro del contenedor */
   row-gap: 4rem;
   align-items: center;
   display: flex;
@@ -982,6 +984,7 @@ body {
   height: calc(100% - 2.15rem);
   align-items: center;
   display: flex;
+  border-top: solid 0.1rem #3f3f3f;
   flex-direction: column;
   flex-shrink: 0;
 }
@@ -994,7 +997,7 @@ body {
   flex-shrink: 0;
 }
 .trmites-y-servicios-T7L .pie-pagina-Myp .auto-group-vz9t-VKL .auto-group-zees-5B4 .plataforma-gubernamental-financiera-av-amazonas-entre-unin-nacional-de-periodistas-y-jos-villalengua-quito-ecuador-telfono-02-393-6300-Y4e {
-  margin-left: 6.9rem;
+  margin-left: 0.5rem;
   max-width: 42.4rem;
   text-align: right;
   font-size: 1.1rem;
