@@ -14,7 +14,7 @@ input {
 }
 body {
   width: 192rem;
-}.calculadora-de-impuesto-a-la-renta-JdL {
+}.calculadora-de-impuesto-a-la-renta-4oQ {
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -23,44 +23,46 @@ body {
   overflow: hidden;
   position: relative;
 
-  .component-2-d9p {
+  .component-2-oFC {
+    flex-shrink: 0;
     width: 100%;
     height: 22.3rem;
     position: relative;
     background-size: 100% 215.247%;
     background-position: 0 -0.542rem;
     background-image: url('REPLACE_IMAGE:d292b9472a26d33080ae1a0d78f7f3708b119c21');
-    flex-shrink: 0;
 
-    .rectangle-13-mmp {
-      left: 0;
-      top: 5.6rem;
-      background-color: rgba(0, 0, 0, 0.400000006);
+    .rectangle-13-9Zx {
+      opacity: 0.9;
       width: 192rem;
       height: 9.8rem;
       position: absolute;
+      left: 0;
+      top: 5.6rem;
+      background-color: rgba(63, 63, 63, 0.8999999762);
     }
-    .servicio-de-rentas-internas-Gia {
-      font-size: 2.5rem;
-      font-weight: 700;
-      width: 40.4rem;
-      height: 2.9rem;
+    .servicio-de-rentas-internas-G8n {
       left: 67.8667rem;
       top: 9.1rem;
-      white-space: nowrap;
-      position: absolute;
+      font-size: 2.5rem;
+      font-weight: 700;
       line-height: 1.15;
+      height: 2.9rem;
+      position: absolute;
       color: #ededed;
       font-family: Arimo, 'Source Sans Pro';
+      white-space: nowrap;
+      width: 40.4rem;
     }
-    .component-2-d9p-bg {
-      background-image: url('REPLACE_IMAGE:d292b9472a26d33080ae1a0d78f7f3708b119c21');
+    .component-2-oFC-bg {
       width: 192rem;
       height: 22.3rem;
       position: relative;
+      background-image: url('REPLACE_IMAGE:d292b9472a26d33080ae1a0d78f7f3708b119c21');
     }
   }
-  .navegacin-calculadora-GMC {
+  .navegacin-calculadora-rcn {
+    background-color: rgba(217, 217, 217, 0.400000006);
     flex-shrink: 0;
     box-sizing: border-box;
     padding: 0.5rem 3.733rem 0.4rem 2rem;
@@ -68,21 +70,19 @@ body {
     height: 3.4rem;
     display: flex;
     align-items: center;
-    background-color: rgba(217, 217, 217, 0.400000006);
 
-    .portal-xzi {
-      margin-right: 1.1333rem;
-      font-weight: 400;
+    .portal-MZY {
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 1.3rem;
       line-height: 1.15;
       color: #000000;
-      flex-shrink: 0;
-      cursor: pointer;
-      font-size: 1.3rem;
       font-family: Arimo, 'Source Sans Pro';
-      white-space: nowrap;
+      margin-right: 1.1333rem;
+      cursor: pointer;
+      font-weight: 400;
     }
-    .item--5pS {
-      color: #000000;
+    .item--g62 {
       font-family: Arimo, 'Source Sans Pro';
       white-space: nowrap;
       flex-shrink: 0;
@@ -90,340 +90,333 @@ body {
       font-size: 1.3rem;
       font-weight: 400;
       line-height: 1.15;
-    }
-    .servicios-cZU {
-      margin-right: 2.5667rem;
       color: #000000;
-      font-family: Arimo, 'Source Sans Pro';
+    }
+    .servicios-Cq4 {
+      white-space: nowrap;
       flex-shrink: 0;
-      cursor: pointer;
-      font-size: 1.3rem;
       font-weight: 400;
       line-height: 1.15;
-      white-space: nowrap;
-    }
-    .item--LVU {
       color: #000000;
       font-family: Arimo, 'Source Sans Pro';
+      margin-right: 2.5667rem;
+      cursor: pointer;
+      font-size: 1.3rem;
+    }
+    .item--LAa {
       white-space: nowrap;
       flex-shrink: 0;
       margin-right: 0.9333rem;
       font-size: 1.3rem;
       font-weight: 400;
       line-height: 1.15;
+      color: #000000;
+      font-family: Arimo, 'Source Sans Pro';
     }
-    .calculadora-ley-de-economa-familiar-ryc {
+    .calculadora-ley-de-economa-familiar-rei {
+      flex-shrink: 0;
+      margin-right: 96.3667rem;
+      font-size: 1.3rem;
       font-weight: 700;
       line-height: 1.15;
       color: #000000;
       font-family: Arimo, 'Source Sans Pro';
       white-space: nowrap;
-      flex-shrink: 0;
-      margin-right: 96.3667rem;
-      font-size: 1.3rem;
     }
-    .buscador-AUW {
-      padding: 0.474rem 1.317rem 0rem 1rem;
-      align-items: center;
-      border: solid 0.1rem #ededed;
-      flex-shrink: 0;
+    .buscador-aKp {
       box-sizing: border-box;
-      height: 100%;
       display: flex;
-      background-color: #ffffff;
+      align-items: center;
       border-radius: 1rem;
+      padding: 0.474rem 1.317rem 0rem 1rem;
+      height: 100%;
+      border: solid 0.1rem #ededed;
+      background-color: #ffffff;
+      flex-shrink: 0;
 
-      .buscar-Jai {
-        font-size: 1.3rem;
+      .buscar-KHQ {
         font-weight: 400;
-        color: #005ba3;
+        white-space: nowrap;
         flex-shrink: 0;
         margin: 0rem 40.89rem 0.474rem 0rem;
-        display: flex;
+        font-size: 1.3rem;
         line-height: 1.15;
+        color: #005ba3;
         font-family: Arimo, 'Source Sans Pro';
-        white-space: nowrap;
+        display: flex;
       }
-      .search-Dxa {
+      .search-pEA {
+        flex-shrink: 0;
         width: 2.0266rem;
         height: 2.0266rem;
         object-fit: contain;
         vertical-align: top;
-        flex-shrink: 0;
       }
     }
   }
-  .auto-group-f7d8-KVp {
-    flex-shrink: 0;
+  .auto-group-pqaa-h34 {
     box-sizing: border-box;
     padding-left: 0.3rem;
     width: 100%;
     align-items: center;
     display: flex;
     flex-direction: column;
+    flex-shrink: 0;
 
-    .image-2-s1Y {
-      width: 47.7rem;
+    .image-2-q9G {
       height: 6rem;
       object-fit: cover;
       vertical-align: top;
       flex-shrink: 0;
       margin: 0rem 0rem 3.3rem 2.6rem;
+      width: 47.7rem;
     }
-    .contenedor-1-y4a {
+    .contenedor-1-99x {
+      flex-shrink: 0;
+      margin: 0rem 3.5rem 6.2rem 2.6rem;
       width: calc(100% - 6.1rem);
       height: 112.2rem;
       position: relative;
       box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
       background-color: rgba(217, 217, 217, 0.400000006);
       border-radius: 1rem;
-      flex-shrink: 0;
-      margin: 0rem 3.5rem 6.2rem 2.6rem;
 
-      .auto-group-zpva-reA {
+      .auto-group-ntrg-raA {
         width: 184.3068rem;
         height: 57.132rem;
         position: absolute;
         left: 0.6643rem;
         top: 43.1379rem;
 
-        .aportaciones-8ra {
-          width: 183.4743rem;
-          position: absolute;
-          top: 14.3621rem;
+        .aportaciones-BsL {
+          left: 0.8325rem;
           align-items: center;
-          flex-direction: column;
+          display: flex;
           border-radius: 1rem;
+          top: 10.6621rem;
+          flex-direction: column;
           box-sizing: border-box;
           padding-bottom: 0.7763rem;
-          height: 42.7699rem;
-          left: 0.8325rem;
-          display: flex;
+          width: 183.4743rem;
+          height: 46.4699rem;
+          position: absolute;
 
-          .auto-group-erfp-ea2 {
+          .auto-group-4dd8-u2e {
+            flex-shrink: 0;
             box-sizing: border-box;
             padding: 0rem 0.035rem 2.324rem 0.035rem;
             width: 100%;
             display: flex;
             flex-direction: column;
-            flex-shrink: 0;
 
-            .ingrese-el-valor-anual-NW2 {
+            .ingrese-el-valor-anual-pQW {
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
               flex-shrink: 0;
-              margin: 0rem 0rem 4.3rem 147.834rem;
+              margin: 0rem 0rem 8rem 146.868rem;
               font-size: 1.1rem;
               font-weight: 400;
               line-height: 1.15;
               color: #000000;
-              font-family: Arimo, 'Source Sans Pro';
-              white-space: nowrap;
             }
-            .auto-group-uo1q-gmc {
-              margin: 0rem 0rem 4.7rem 0.917rem;
+            .auto-group-u1li-XJv {
+              margin: 0rem 0rem 3.7rem 0.917rem;
               height: 5.5996rem;
               display: flex;
               align-items: center;
               flex-shrink: 0;
 
-              .auto-group-kqyg-cvA {
-                flex-shrink: 0;
+              .auto-group-9cvz-43x {
                 box-sizing: border-box;
-                padding: 1.8rem 38.424rem 1.7rem 0rem;
+                padding: 1.5rem 24.365rem 1.7rem 0rem;
                 height: 100%;
                 display: flex;
                 align-items: center;
+                flex-shrink: 0;
 
-                .aportacin-anual-al-iess--wBk {
-                  font-family: Arimo, 'Source Sans Pro';
+                .aportacin-anual-al-iess--P6E {
                   white-space: nowrap;
                   flex-shrink: 0;
-                  margin-right: 23.9918rem;
+                  margin: 0.3rem 23.951rem 0rem 0rem;
                   font-size: 1.8rem;
                   font-weight: 700;
                   line-height: 1.15;
                   color: #000000;
+                  font-family: Arimo, 'Source Sans Pro';
                 }
-                .empleado-pblico-1145-empleado-privado-945-3ka {
+                .empleado-pblico-1145-empleado-privado-945-tYn {
                   flex-shrink: 0;
-                  margin-top: 0.4rem;
-                  font-size: 1.3rem;
-                  font-weight: 400;
+                  margin-bottom: 0.3rem;
+                  font-size: 1.8rem;
+                  font-weight: 700;
                   line-height: 1.15;
                   color: #000000;
                   font-family: Arimo, 'Source Sans Pro';
                   white-space: nowrap;
                 }
               }
-              .auto-group-njd4-N2A {
-                flex-shrink: 0;
-                box-sizing: border-box;
-                padding: 1.8rem 3.538rem 2.5rem 3.538rem;
-                width: 22.5855rem;
+              .auto-group-8uvc-C3g {
                 border-radius: 1rem;
-                margin-right: 2.9957rem;
+                box-sizing: border-box;
                 height: 100%;
-                font-family: Arimo, 'Source Sans Pro';
                 font-weight: 400;
                 color: rgba(0, 0, 0, 0.5);
-                white-space: nowrap;
+                font-family: Arimo, 'Source Sans Pro';
                 background-color: #d9d9d9;
+                margin-right: 2.9957rem;
+                width: 22.5855rem;
                 font-size: 1.1rem;
                 line-height: 1.15;
+                padding: 1.8rem 3.538rem 2.5rem 3.538rem;
+                white-space: nowrap;
+                flex-shrink: 0;
               }
-              .usd-chC {
+              .usd-den {
+                line-height: 1.15;
+                color: #000000;
                 font-family: Arimo, 'Source Sans Pro';
                 white-space: nowrap;
                 flex-shrink: 0;
                 margin-top: 0.3004rem;
                 font-size: 1.8rem;
                 font-weight: 700;
-                line-height: 1.15;
-                color: #000000;
               }
             }
-            .auto-group-gxoq-KrW {
+            .auto-group-sies-xSA {
               margin: 0rem 0rem 3.7rem 0.917rem;
-              height: 5.5996rem;
               display: flex;
-              align-items: flex-end;
+              align-items: center;
               flex-shrink: 0;
 
-              .auto-group-hgjj-SRL {
-                display: flex;
-                align-items: flex-start;
+              .otros-ingresos-por--VS6 {
+                color: #000000;
+                font-family: Arimo, 'Source Sans Pro';
+                white-space: nowrap;
                 flex-shrink: 0;
-                box-sizing: border-box;
-                padding-right: 3.9237rem;
-                height: 100%;
-
-                .otros-ingresos-por--PrN {
-                  color: #000000;
-                  font-family: Arimo, 'Source Sans Pro';
-                  white-space: nowrap;
-                  flex-shrink: 0;
-                  margin-right: 29.0918rem;
-                  font-size: 1.8rem;
-                  font-weight: 700;
-                  line-height: 1.15;
-                }
-                .actividad-econmica-capital-y-o-trabajo-autnomoingresos-por-arriendos-rendimientos-financieros-libre-ejercicio-profesional-otros-6Vt {
-                  font-weight: 400;
-                  line-height: 1.15;
-                  color: #000000;
-                  font-family: Arimo, 'Source Sans Pro';
-                  flex-shrink: 0;
-                  margin-top: 0.8rem;
-                  max-width: 65.2rem;
-                  font-size: 1.3rem;
-                }
+                margin: 0rem 28.651rem 2.5rem 0rem;
+                font-size: 1.8rem;
+                font-weight: 700;
+                line-height: 1.15;
               }
-              .rectangle-7-Lv2 {
-                margin-right: 2.9711rem;
-                width: 22.5855rem;
+              .actividad-econmica-capital-y-o-trabajo-autnomoingresos-por-arriendos-rendimientos-financieros-libre-ejercicio-profesional-otros-bzv {
+                max-width: 63.7rem;
+                font-size: 1.8rem;
+                font-weight: 700;
+                line-height: 1.15;
+                color: #000000;
+                font-family: Arimo, 'Source Sans Pro';
+                flex-shrink: 0;
+                margin: 0rem 5.865rem 2.4rem 0rem;
+              }
+              .rectangle-7-eyC {
                 height: 5.5996rem;
                 background-color: #d9d9d9;
                 border-radius: 1rem;
                 flex-shrink: 0;
+                margin: 1rem 2.971rem 0rem 0rem;
+                width: 22.5855rem;
               }
-              .usd-56v {
+              .usd-mH8 {
                 line-height: 1.15;
                 color: #000000;
                 font-family: Arimo, 'Source Sans Pro';
                 white-space: nowrap;
                 flex-shrink: 0;
-                margin-bottom: 0.7342rem;
+                margin-top: 3.0312rem;
                 font-size: 1.8rem;
                 font-weight: 700;
               }
             }
-            .auto-group-7apn-DU2 {
+            .auto-group-8dbc-Vyp {
+              align-items: flex-end;
+              flex-shrink: 0;
               margin: 0rem 0rem 3.171rem 1.87rem;
               height: 5.5996rem;
               display: flex;
-              align-items: flex-end;
-              flex-shrink: 0;
 
-              .auto-group-4hew-Z26 {
+              .auto-group-oixx-2ir {
+                padding: 0.2rem 8.665rem 0.2rem 0rem;
+                height: 100%;
                 display: flex;
                 align-items: center;
                 flex-shrink: 0;
                 box-sizing: border-box;
-                padding: 1.2rem 4.824rem 1.4rem 0rem;
-                height: 100%;
 
-                .otros-ingresos-por--sYa {
+                .otros-ingresos-por--Zin {
+                  white-space: nowrap;
                   flex-shrink: 0;
-                  margin: 0rem 28.139rem 0.7rem 0rem;
+                  margin: 0rem 27.698rem 0.9rem 0rem;
                   font-size: 1.8rem;
                   font-weight: 700;
                   line-height: 1.15;
                   color: #000000;
                   font-family: Arimo, 'Source Sans Pro';
-                  white-space: nowrap;
                 }
-                .actividad-econmica-capital-y-o-trabajo-autnomocostos-y-gastos-por-arriendos-rendimientos-financieros-libre-ejercicio-profesional-otros-oBL {
-                  font-weight: 400;
+                .actividad-econmica-capital-y-o-trabajo-autnomocostos-y-gastos-por-arriendos-rendimientos-financieros-libre-ejercicio-profesional-otros-tFG {
+                  font-weight: 700;
                   line-height: 1.15;
                   color: #000000;
                   font-family: Arimo, 'Source Sans Pro';
                   flex-shrink: 0;
-                  max-width: 64.3rem;
-                  font-size: 1.3rem;
+                  margin-bottom: 0.9996rem;
+                  max-width: 60.9rem;
+                  font-size: 1.8rem;
                 }
               }
-              .rectangle-9-35g {
+              .rectangle-9-kYN {
+                flex-shrink: 0;
                 margin-right: 2.9711rem;
                 width: 22.5855rem;
                 height: 5.5996rem;
                 background-color: #d9d9d9;
                 border-radius: 1rem;
-                flex-shrink: 0;
               }
-              .usd-abQ {
+              .usd-ggv {
+                font-family: Arimo, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
                 margin-bottom: 0.7015rem;
                 font-size: 1.8rem;
                 font-weight: 700;
                 line-height: 1.15;
                 color: #000000;
-                font-family: Arimo, 'Source Sans Pro';
-                white-space: nowrap;
-                flex-shrink: 0;
               }
             }
-            .auto-group-fr4i-Kot {
+            .auto-group-heai-ReW {
               height: 5.5996rem;
               display: flex;
               align-items: flex-end;
               flex-shrink: 0;
 
-              .total-ingresos-netos-anuales-FxS {
-                margin: 0rem 26.03rem 0.3rem 0rem;
-                font-size: 1.8rem;
-                font-weight: 700;
-                line-height: 1.15;
+              .total-ingresos-netos-anuales-miN {
                 color: #000000;
                 font-family: Arimo, 'Source Sans Pro';
                 white-space: nowrap;
                 flex-shrink: 0;
-              }
-              .auto-group-ax4e-BLJ {
-                width: 22.5855rem;
-                font-weight: 400;
-                white-space: nowrap;
-                height: 100%;
+                margin: 0rem 26.03rem 0.3rem 0rem;
+                font-size: 1.8rem;
+                font-weight: 700;
                 line-height: 1.15;
-                background-color: #d9d9d9;
-                margin-right: 2.4161rem;
+              }
+              .auto-group-jytt-6Er {
+                height: 100%;
+                font-weight: 400;
                 display: flex;
                 justify-content: center;
-                align-items: center;
-                border-radius: 1rem;
-                flex-shrink: 0;
+                margin-right: 2.4161rem;
                 font-size: 1.1rem;
-                color: rgba(0, 0, 0, 0.5);
+                line-height: 1.15;
+                border-radius: 1rem;
                 font-family: Arimo, 'Source Sans Pro';
+                white-space: nowrap;
+                align-items: center;
+                background-color: #d9d9d9;
+                width: 22.5855rem;
+                color: rgba(0, 0, 0, 0.5);
+                flex-shrink: 0;
               }
-              .usd-gH4 {
+              .usd-AkW {
+                color: #000000;
                 font-family: Arimo, 'Source Sans Pro';
                 white-space: nowrap;
                 flex-shrink: 0;
@@ -431,43 +424,42 @@ body {
                 font-size: 1.8rem;
                 font-weight: 700;
                 line-height: 1.15;
-                color: #000000;
               }
             }
           }
-          .line-3-262 {
-            width: 100%;
-            height: 0.1rem;
+          .line-3-WJa {
             background-color: #70c0ff;
             flex-shrink: 0;
+            width: 100%;
+            height: 0.1rem;
           }
         }
-        .empleado-privado-k22 {
-          width: 183.4743rem;
-          height: 16.2767rem;
+        .empleado-privado-Si2 {
           position: absolute;
           left: 0;
           top: 0;
           border-bottom: solid 0.1rem #70c0ff;
           box-sizing: border-box;
           border-radius: 1rem;
+          width: 183.4743rem;
+          height: 16.2767rem;
 
-          .auto-group-l2pg-fen {
-            padding: 0rem 1.785rem 2.489rem 1.785rem;
+          .auto-group-mpbu-apE {
             width: 100%;
             height: 16.1767rem;
             align-items: center;
             display: flex;
             flex-direction: column;
             box-sizing: border-box;
+            padding: 0rem 1.785rem 1.715rem 1.785rem;
 
-            .auto-group-1ne2-Pan {
-              margin: 0rem 35.368rem 0.426rem 0rem;
-              display: flex;
+            .auto-group-ilt6-K18 {
               align-items: center;
               flex-shrink: 0;
+              margin: 0rem 35.368rem 0.426rem 0rem;
+              display: flex;
 
-              .empleado-privado--jPk {
+              .empleado-privado--FQa {
                 white-space: nowrap;
                 flex-shrink: 0;
                 margin: 5.562rem 30.136rem 0rem 0rem;
@@ -477,26 +469,25 @@ body {
                 color: #000000;
                 font-family: Arimo, 'Source Sans Pro';
               }
-              .ingresos-aportables-al-iess-sueldo-salario-horas-extras-bonificaciones-y-comisiones-f2W {
-                flex-shrink: 0;
-                margin: 0rem 19.324rem 3.038rem 0rem;
-                font-size: 1.3rem;
-                font-weight: 400;
-                line-height: 1.15;
+              .ingresos-aportables-al-iess-sueldo-salario-horas-extras-bonificaciones-y-comisiones-ybU {
                 color: #000000;
                 font-family: Arimo, 'Source Sans Pro';
-                white-space: nowrap;
+                flex-shrink: 0;
+                margin: 0rem 5.624rem 0.338rem 0rem;
+                max-width: 63.5rem;
+                font-size: 1.8rem;
+                font-weight: 700;
+                line-height: 1.15;
               }
-              .rectangle-7-YMC {
-                margin: 0rem 2.391rem 2.062rem 0rem;
-                width: 22.5855rem;
+              .rectangle-7-G4n {
                 height: 5.5996rem;
                 background-color: #d9d9d9;
                 border-radius: 1rem;
                 flex-shrink: 0;
+                margin: 0rem 2.391rem 2.062rem 0rem;
+                width: 22.5855rem;
               }
-              .usd-ShU {
-                font-weight: 700;
+              .usd-nYv {
                 line-height: 1.15;
                 color: #000000;
                 font-family: Arimo, 'Source Sans Pro';
@@ -504,77 +495,78 @@ body {
                 flex-shrink: 0;
                 margin-bottom: 1.4142rem;
                 font-size: 1.8rem;
+                font-weight: 700;
               }
             }
-            .auto-group-xu3k-kiA {
+            .auto-group-stxi-jDG {
+              align-items: center;
               flex-shrink: 0;
               margin: 0rem 35.368rem 0rem 46.536rem;
-              width: calc(100% - 81.9036rem);
+              width: calc(100% - 81.9037rem);
               display: flex;
-              align-items: center;
 
-              .ingresos-no-aportables-al-iess-participacin-de-utlidades-VQr {
-                font-weight: 400;
+              .ingresos-no-aportables-al-iess-participacin-de-utlidades-GDC {
+                font-weight: 700;
                 line-height: 1.15;
                 color: #000000;
                 font-family: Arimo, 'Source Sans Pro';
-                white-space: nowrap;
                 flex-shrink: 0;
-                margin: 0.248rem 35.624rem 0rem 0rem;
-                font-size: 1.3rem;
+                margin: 2.174rem 28.124rem 0rem 0rem;
+                max-width: 41rem;
+                font-size: 1.8rem;
               }
-              .rectangle-7-mtA {
+              .rectangle-7-m9x {
+                flex-shrink: 0;
+                margin: 0rem 2.391rem 0.774rem 0rem;
+                width: 22.5855rem;
                 height: 5.5996rem;
                 background-color: #d9d9d9;
                 border-radius: 1rem;
-                flex-shrink: 0;
-                margin-right: 2.3914rem;
-                width: 22.5855rem;
               }
-              .usd-6Qe {
+              .usd-gGv {
+                font-weight: 700;
+                line-height: 1.15;
                 color: #000000;
                 font-family: Arimo, 'Source Sans Pro';
                 white-space: nowrap;
                 flex-shrink: 0;
-                margin-top: 0.2335rem;
+                margin-bottom: 0.5407rem;
                 font-size: 1.8rem;
-                font-weight: 700;
-                line-height: 1.15;
               }
             }
           }
         }
       }
-      .auto-group-c76e-CyU {
-        left: 0.6643rem;
-        top: 23.4355rem;
+      .auto-group-zzbt-PSE {
         width: 183.4743rem;
         height: 7.3588rem;
         position: absolute;
+        left: 0.6643rem;
+        top: 23.4355rem;
 
-        .boton-seleccion-kEJ {
+        .boton-seleccion-iDc {
+          width: 2.8575rem;
+          height: 2.1rem;
+          cursor: pointer;
           position: absolute;
           left: 133.0929rem;
           top: 0.4645rem;
           object-fit: contain;
           vertical-align: top;
-          width: 2.8575rem;
-          height: 2.1rem;
-          cursor: pointer;
         }
-        .periodicidad-3jC {
+        .periodicidad-Ehk {
+          width: 183.4743rem;
           height: 7.3588rem;
           position: absolute;
           left: 0;
           top: 0;
-          width: 183.4743rem;
 
-          .auto-group-koen-zeS {
+          .auto-group-wf4i-mxa {
             margin: 0rem 0rem 4.594rem 1.461rem;
             display: flex;
             align-items: flex-end;
 
-            .indique-la-periodicidad-de-ingreso--jc2 {
+            .indique-la-periodicidad-de-ingreso--WvA {
               white-space: nowrap;
               flex-shrink: 0;
               margin: 0rem 74.245rem 0.565rem 0rem;
@@ -584,16 +576,16 @@ body {
               color: #000000;
               font-family: Arimo, 'Source Sans Pro';
             }
-            .boton-seleccion-eiz {
+            .boton-seleccion-RGS {
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
               margin: 0rem 0.408rem 0.1rem 0rem;
               width: 2.8575rem;
               height: 2.1rem;
               cursor: pointer;
-              object-fit: contain;
-              vertical-align: top;
-              flex-shrink: 0;
             }
-            .anual-ymG {
+            .anual-wVg {
               white-space: nowrap;
               flex-shrink: 0;
               margin: 0rem 22.003rem 0.1rem 0rem;
@@ -603,188 +595,179 @@ body {
               color: #000000;
               font-family: Arimo, 'Source Sans Pro';
             }
-            .mensual-hxA {
+            .mensual-4aJ {
+              white-space: nowrap;
               flex-shrink: 0;
               font-size: 1.8rem;
               font-weight: 700;
               line-height: 1.15;
               color: #000000;
               font-family: Arimo, 'Source Sans Pro';
-              white-space: nowrap;
             }
           }
-          .auto-group-zxrg-dav {
-            width: 100%;
-            height: 0.1rem;
+          .auto-group-fn9l-QeA {
             border-top: solid 0.1rem #70c0ff;
             box-sizing: border-box;
+            width: 100%;
+            height: 0.1rem;
           }
         }
       }
-      .calculadora-de-impuesto-a-la-renta-NHc {
-        position: absolute;
-        font-size: 4rem;
-        line-height: 1.15;
-        color: #000000;
-        font-family: Arimo, 'Source Sans Pro';
+      .calculadora-de-impuesto-a-la-renta-Xyg {
         width: 67.6rem;
         height: 4.6rem;
         left: 48.4925rem;
-        top: 0;
-        font-weight: 700;
         white-space: nowrap;
-      }
-      .aqu-podrs-calcular-tu-reduccin-en-el-impuesto-a-la-renta-de-personas-naturales-de-la-nueva-ley-orgnica-para-el-fortalecimiento-de-la-economa-familiar-gJJ {
+        color: #000000;
         font-family: Arimo, 'Source Sans Pro';
-        white-space: nowrap;
+        position: absolute;
+        top: 0;
+        font-size: 4rem;
+        font-weight: 700;
+        line-height: 1.15;
+      }
+      .aqu-podrs-calcular-tu-reduccin-en-el-impuesto-a-la-renta-de-personas-naturales-de-la-nueva-ley-orgnica-para-el-fortalecimiento-de-la-economa-familiar-S54 {
+        width: 91.5rem;
         height: 1.5rem;
         position: absolute;
-        text-align: center;
-        font-weight: 400;
-        color: #000000;
-        width: 91.5rem;
         left: 45.9068rem;
-        top: 7.7rem;
-        font-size: 1.3rem;
-        line-height: 1.15;
-      }
-      .auto-group-bn94-viS {
         white-space: nowrap;
-        background-color: #0000a3;
-        font-weight: 700;
+        top: 7.7rem;
+        text-align: center;
+        font-size: 1.3rem;
+        font-weight: 400;
         line-height: 1.15;
+        color: #000000;
+        font-family: Arimo, 'Source Sans Pro';
+      }
+      .auto-group-ve4v-Gpn {
+        width: 185.4672rem;
+        height: 6.0144rem;
+        font-size: 2.5rem;
+        align-items: center;
+        justify-content: center;
+        background-color: #0000a3;
         left: 0;
         top: 13.8954rem;
         color: #dedede;
         font-family: Arimo, 'Source Sans Pro';
-        align-items: center;
-        justify-content: center;
-        height: 6.0144rem;
-        position: absolute;
-        font-size: 2.5rem;
+        white-space: nowrap;
         display: flex;
-        width: 185.4672rem;
+        font-weight: 700;
+        line-height: 1.15;
+        position: absolute;
       }
-      .empleado-publico-Prv {
-        border-bottom: solid 0.1rem #70c0ff;
-        border-radius: 1rem;
+      .empleado-publico-MrE {
+        padding: 0 1.785rem;
+        width: 183.4743rem;
         height: 8.8105rem;
         left: 0.6643rem;
-        width: 183.4743rem;
-        position: absolute;
         top: 32.3534rem;
+        border-bottom: solid 0.1rem #70c0ff;
+        border-radius: 1rem;
         box-sizing: border-box;
-        padding: 0 1.785rem;
+        position: absolute;
 
-        .auto-group-yhtr-hMp {
+        .auto-group-cqne-HUz {
           width: 144.5368rem;
-          height: 5.5996rem;
+          height: 5.7466rem;
           display: flex;
           align-items: center;
 
-          .auto-group-krka-e2A {
-            align-items: center;
+          .empleado-pblico--dHx {
+            color: #000000;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
             flex-shrink: 0;
-            box-sizing: border-box;
-            padding: 1.547rem 31.824rem 0.953rem 0rem;
-            height: 100%;
-            display: flex;
-
-            .empleado-pblico--Xbk {
-              white-space: nowrap;
-              flex-shrink: 0;
-              margin: 1rem 30.236rem 0rem 0rem;
-              font-size: 1.8rem;
-              font-weight: 700;
-              line-height: 1.15;
-              color: #000000;
-              font-family: Arimo, 'Source Sans Pro';
-            }
-            .ingresos-aportables-al-iess-como-sueldo-salario-y-horas-extras-FXk {
-              color: #000000;
-              font-family: Arimo, 'Source Sans Pro';
-              white-space: nowrap;
-              flex-shrink: 0;
-              margin-bottom: 1.6rem;
-              font-size: 1.3rem;
-              font-weight: 400;
-              line-height: 1.15;
-            }
+            margin: 1.447rem 30.236rem 0rem 0rem;
+            font-size: 1.8rem;
+            font-weight: 700;
+            line-height: 1.15;
           }
-          .rectangle-7-Auc {
-            margin-right: 2.3914rem;
+          .ingresos-aportables-al-iess-como-sueldo-salario-y-horas-extras-MDx {
+            color: #000000;
+            font-family: Arimo, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin: 1.547rem 19.424rem 0rem 0rem;
+            max-width: 49.7rem;
+            font-size: 1.8rem;
+            font-weight: 700;
+            line-height: 1.15;
+          }
+          .rectangle-7-T26 {
+            margin: 0rem 2.391rem 0.147rem 0rem;
             width: 22.5855rem;
             height: 5.5996rem;
             background-color: #dedede;
             border-radius: 1rem;
             flex-shrink: 0;
           }
-          .usd-7Zx {
-            line-height: 1.15;
-            color: #000000;
+          .usd-Ax6 {
             font-family: Arimo, 'Source Sans Pro';
             white-space: nowrap;
             flex-shrink: 0;
-            margin-top: 0.6482rem;
+            margin-top: 0.5013rem;
             font-size: 1.8rem;
             font-weight: 700;
+            line-height: 1.15;
+            color: #000000;
           }
         }
       }
-      .auto-group-gbkt-2gv {
+      .auto-group-gndc-Hmp {
+        left: 62.5924rem;
+        top: 103.2rem;
         display: flex;
         align-items: center;
         width: 63.1366rem;
         height: 7rem;
         position: absolute;
-        left: 62.5924rem;
-        top: 103.2rem;
 
-        .boton-eliminar-m8i {
+        .boton-eliminar-cp6 {
           font-weight: 700;
           line-height: 1.15;
-          color: #ffffff;
-          justify-content: center;
-          margin-right: 19.5941rem;
-          height: 100%;
-          text-align: center;
-          white-space: nowrap;
-          align-items: center;
-          width: 21.7713rem;
           font-family: Arimo, 'Source Sans Pro';
-          background-color: #0000a3;
-          flex-shrink: 0;
-          font-size: 1.8rem;
           display: flex;
+          flex-shrink: 0;
+          margin-right: 19.5941rem;
+          width: 21.7713rem;
+          text-align: center;
+          align-items: center;
+          justify-content: center;
+          font-size: 1.8rem;
+          color: #ffffff;
+          white-space: nowrap;
+          height: 100%;
+          background-color: #0000a3;
           border-radius: 2.1rem;
         }
-        .boton-siguiente-dRp {
+        .boton-siguiente-Jgv {
+          text-align: center;
+          font-family: Arimo, 'Source Sans Pro';
+          background-color: #0000a3;
+          width: 21.7713rem;
           font-size: 1.8rem;
           font-weight: 700;
-          text-align: center;
-          line-height: 1.15;
-          font-family: Arimo, 'Source Sans Pro';
-          display: flex;
+          color: #ffffff;
           align-items: center;
           height: 100%;
+          line-height: 1.15;
+          display: flex;
+          flex-shrink: 0;
+          white-space: nowrap;
           justify-content: center;
           border-radius: 2.1rem;
-          width: 21.7713rem;
-          color: #ffffff;
-          white-space: nowrap;
-          background-color: #0000a3;
-          flex-shrink: 0;
         }
       }
     }
-    .pie-pagina-2Tx {
+    .pie-pagina-M9Q {
       width: 100%;
-      align-items: center;
+      align-items: flex-end;
       display: flex;
       flex-direction: column;
       flex-shrink: 0;
 
-      .auto-group-v9pa-z9t {
+      .auto-group-suqi-hyx {
         height: 6.8rem;
         display: flex;
         align-items: flex-start;
@@ -792,54 +775,54 @@ body {
         margin-bottom: 1.2rem;
         width: 100%;
 
-        .auto-group-7u6a-vJS {
-          width: 79.6211rem;
-          border-top: solid 0.1rem #3f3f3f;
-          flex-shrink: 0;
+        .auto-group-sdrq-Sge {
           margin: 1.6rem 3.18rem 0rem 0rem;
           box-sizing: border-box;
           padding: 1rem 13.91rem 0rem 13.91rem;
+          width: 79.6211rem;
+          border-top: solid 0.1rem #3f3f3f;
+          flex-shrink: 0;
 
-          .image-1-2sG {
-            width: 21.197rem;
-            height: 4.2rem;
+          .image-1-kxE {
             object-fit: cover;
             vertical-align: top;
+            width: 21.197rem;
+            height: 4.2rem;
           }
         }
-        .social-icons-xW2 {
+        .social-icons-gaz {
+          height: 3.2rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
           margin-right: 5.1668rem;
           width: 4.2394rem;
+        }
+        .social-icons-phC {
           height: 3.2rem;
           object-fit: contain;
           vertical-align: top;
           flex-shrink: 0;
-        }
-        .social-icons-H2W {
           margin-right: 5.2992rem;
           width: 4.2394rem;
+        }
+        .social-icons-Mx2 {
           height: 3.2rem;
           object-fit: contain;
-          vertical-align: top;
-          flex-shrink: 0;
-        }
-        .social-icons-2Vt {
           vertical-align: top;
           flex-shrink: 0;
           margin-right: 3.1796rem;
           width: 4.2394rem;
-          height: 3.2rem;
-          object-fit: contain;
         }
-        .auto-group-f1lz-yg2 {
-          margin: 1.55rem 0rem 0.6rem 0rem;
-          height: calc(100% - 2.15rem);
-          align-items: flex-end;
+        .auto-group-vxdt-hFC {
           display: flex;
           flex-direction: column;
           flex-shrink: 0;
+          margin: 1.55rem 0rem 0.6rem 0rem;
+          height: calc(100% - 2.15rem);
+          align-items: flex-end;
 
-          .line-6-7GS {
+          .line-6-d8r {
             vertical-align: top;
             flex-shrink: 0;
             margin-bottom: 0.85rem;
@@ -847,44 +830,43 @@ body {
             height: 0;
             object-fit: contain;
           }
-          .plataforma-gubernamental-financiera-av-amazonas-entre-unin-nacional-de-periodistas-y-jos-villalengua-quito-ecuador-telfono-02-393-6300-pge {
+          .plataforma-gubernamental-financiera-av-amazonas-entre-unin-nacional-de-periodistas-y-jos-villalengua-quito-ecuador-telfono-02-393-6300-n1k {
             font-size: 1.1rem;
-            font-weight: 400;
-            margin-right: 8.6113rem;
-            max-width: 42.4rem;
-            color: #000000;
             font-family: Arimo, 'Source Sans Pro';
             flex-shrink: 0;
+            max-width: 42.4rem;
             text-align: right;
             line-height: 1.15;
+            color: #000000;
+            margin-right: 8.6113rem;
+            font-weight: 400;
           }
         }
       }
-      .auto-group-a6ns-UWJ {
-        margin: 0rem 0.265rem 0rem 0.662rem;
-        width: calc(100% - 0.9274rem);
+      .auto-group-gebq-RKc {
         display: flex;
         align-items: center;
         flex-shrink: 0;
 
-        .rectangle-1-c6i {
-          width: 95.3863rem;
-          height: 1rem;
+        .rectangle-1-aiJ {
           background-color: #ffff00;
           flex-shrink: 0;
           margin-right: 0rem;
+          width: 95.3863rem;
+          height: 1rem;
         }
-        .rectangle-2-wPt {
+        .rectangle-2-j5Q {
+          margin-right: 0.0195rem;
           width: 57.2318rem;
           height: 1rem;
           background-color: #0000ff;
           flex-shrink: 0;
         }
-        .rectangle-3-6Gn {
-          width: 38.1545rem;
+        .rectangle-3-sSW {
+          flex-shrink: 0;
+          width: 38.4rem;
           height: 1rem;
           background-color: #ff0000;
-          flex-shrink: 0;
         }
       }
     }

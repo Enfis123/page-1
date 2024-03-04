@@ -14,28 +14,28 @@ input {
 }
 body {
   width: 4.7rem;
-}.boton-seleccion-qdY {
+}.boton-seleccion-gAr {
+  padding: 2rem;
   overflow: hidden;
-  position: relative;
   align-items: center;
-  display: flex;
   flex-direction: column;
+  border: dashed 0.1rem #9747ff;
   border-radius: 0.5rem;
   box-sizing: border-box;
   width: 100%;
-  padding: 2rem;
-  border: dashed 0.1rem #9747ff;
+  position: relative;
+  display: flex;
 
-  .apagadoenecendido-Z3k {
-    width: 0.7rem;
+  .apagadoenecendido-bHp {
     height: 0.7rem;
     cursor: pointer;
     object-fit: contain;
     vertical-align: top;
     flex-shrink: 0;
     margin-bottom: 2rem;
+    width: 0.7rem;
   }
-  .apagadovariant2-tLv {
+  .apagadovariant2-Wfg {
     width: 0.7rem;
     height: 0.7rem;
     object-fit: contain;
