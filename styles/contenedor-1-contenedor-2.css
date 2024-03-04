@@ -1,0 +1,703 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 139.7rem;
+}.contenedor-1-contenedor-2-gDt {
+  width: 100%;
+  height: 54.1rem;
+  position: relative;
+}
+.contenedor-1-contenedor-2-gDt .rectangle-8-xhC {
+  width: 139.7rem;
+  height: 54.1rem;
+  position: absolute;
+  left: 0;
+  top: -0.4rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+}
+.contenedor-1-contenedor-2-gDt .boton-siguiente-fbc {
+  width: 17.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 51.1rem;
+  top: 38.3rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0000a3;
+  border-radius: 1rem;
+}
+.contenedor-1-contenedor-2-gDt .frame-3-CV4 {
+  box-sizing: border-box;
+  padding: 0.2rem 1.2rem 0rem 1.2rem;
+  width: 9.2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 105.2rem;
+  top: 11.5rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #000000;
+  border-radius: 0.5rem;
+}
+.contenedor-1-contenedor-2-gDt .frame-3-CV4 .no-aplica-hAv {
+  margin-right: 0.4rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .frame-3-CV4 .polygon-1-q2E {
+  margin-bottom: 0.2rem;
+  width: 0.8rem;
+  height: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .calculando-Ki6 {
+  box-sizing: border-box;
+  padding: 0.7rem 1.3357rem;
+  width: 17rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 102.9rem;
+  top: 48.3rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ededed;
+  border-radius: 1rem;
+}
+.contenedor-1-contenedor-2-gDt .calculando-ATp {
+  box-sizing: border-box;
+  padding: 0.7rem 1.3357rem;
+  width: 17rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 60.6rem;
+  top: 48.3rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ededed;
+  border-radius: 1rem;
+}
+.contenedor-1-contenedor-2-gDt .calculando-sWe {
+  box-sizing: border-box;
+  padding: 0.7rem 1.3357rem;
+  width: 17rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 48.3rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ededed;
+  border-radius: 1rem;
+}
+.contenedor-1-contenedor-2-gDt .ley-de-desarrollo-econmico-2022impuesto-a-pagar-actual-usd--HKU {
+  width: 30.5rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 2rem;
+  top: 42.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+}
+.contenedor-1-contenedor-2-gDt .con-la-ley-de-la-economa-familiardejars-de-pagar-usd--A8N {
+  width: 27.6rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 98.3rem;
+  top: 42.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+}
+.contenedor-1-contenedor-2-gDt .ley-de-la-economa-familiar-2023impuesto-a-pagar-reforma-usd--epE {
+  width: 29.4rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 52.8rem;
+  top: 42.7rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+}
+.contenedor-1-contenedor-2-gDt .calculando-X7L {
+  box-sizing: border-box;
+  padding: 0.7rem 1.3357rem;
+  width: 17rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 88.7rem;
+  top: 33.5rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ededed;
+  border-radius: 1rem;
+}
+.contenedor-1-contenedor-2-gDt .calculando-N7x {
+  box-sizing: border-box;
+  padding: 0.7rem 1.32rem;
+  width: 16.8rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 88.4rem;
+  top: 15.6rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ededed;
+  border-radius: 1rem;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L {
+  width: 138.4rem;
+  height: 13rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 24rem;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-mq4z-KSW {
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-mq4z-KSW .usted-o-alguna-carga-familiar-padece-una-enfermedad-catastrfica-rara-y-o-hurfana-THp {
+  margin: 0rem 9.8rem 0.2rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-mq4z-KSW .boton-seleccion-L6i {
+  margin: 0rem 0.2rem 0.4rem 0rem;
+  width: 0.9rem;
+  height: 0.9rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-mq4z-KSW .si-et6 {
+  margin: 0rem 8.2rem 0.2rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-mq4z-KSW .boton-seleccion-A5k {
+  margin: 0rem 0.2rem 0.4rem 0rem;
+  width: 0.9rem;
+  height: 0.9rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-mq4z-KSW .no-5Ci {
+  margin: 0rem 14.1rem 0.4rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-mq4z-KSW .rectangle-7-1MG {
+  margin: 0rem 1.8rem 0.4rem 0rem;
+  width: 17rem;
+  height: 2.7rem;
+  background-color: #ededed;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-mq4z-KSW .usd-jYA {
+  margin-top: 1rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-65ee-UVk {
+  margin: 0rem 0rem 1.6rem 0.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-65ee-UVk .nmero-de-cargas-familiares--baN {
+  margin-right: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-65ee-UVk .padres-cnyuge-o-pareja-en-unin-de-hecho-e-hijos-hasta-los-21-aos-o-con-discapacidad-de-cualquier-edad-que-no-perciban-ingresos-gravados-y-sean-dependientes-del-sujeto-pasivo-LH4 {
+  margin: 0.3rem 8.3rem 0rem 0rem;
+  max-width: 53.9rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-65ee-UVk .rectangle-7-XcS {
+  margin-right: 1.8rem;
+  width: 17rem;
+  height: 2.7rem;
+  background-color: #ededed;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-65ee-UVk .nmero-4cN {
+  margin-top: 0.6rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-4npy-zkv {
+  margin: 0rem 0rem 0.8rem 0.8rem;
+  height: 2.7rem;
+  display: flex;
+  align-items: center;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-4npy-zkv .mximo-de-gastos-personales-deducibles--KoC {
+  margin: 0rem 3.4rem 0.2rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-4npy-zkv .calculando-3UJ {
+  margin-right: 0.9rem;
+  box-sizing: border-box;
+  padding: 0.7rem 1.3357rem;
+  width: 17rem;
+  height: 100%;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ededed;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-4npy-zkv .usd-FqG {
+  margin-right: 12.6rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-4npy-zkv .rebaja-por-gastos-personales--QCN {
+  margin: 0rem 26.4rem 0.4rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .auto-group-4npy-zkv .usd-65C {
+  margin-top: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .aportaciones-z9L .line-3-W8v {
+  margin-left: 0.3rem;
+  width: 138.1rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.contenedor-1-contenedor-2-gDt .empleado-privado-eW2 {
+  width: 138.1rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 0;
+  top: 15.6rem;
+  border-bottom: solid 0.1rem #70c0ff;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
+.contenedor-1-contenedor-2-gDt .empleado-privado-eW2 .auto-group-ic9c-ncE {
+  box-sizing: border-box;
+  padding: 0rem 0.5rem 0.9rem 0.5rem;
+  width: 100%;
+  height: 7.5rem;
+  display: flex;
+  flex-direction: column;
+}
+.contenedor-1-contenedor-2-gDt .empleado-privado-eW2 .auto-group-ic9c-ncE .auto-group-fymy-X42 {
+  margin: 0rem 0rem 0.3rem 0.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .empleado-privado-eW2 .auto-group-ic9c-ncE .auto-group-fymy-X42 .total-de-deducciones--e8e {
+  margin: 0rem 0.7rem 0.7rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .empleado-privado-eW2 .auto-group-ic9c-ncE .auto-group-fymy-X42 .se-considera-la-deduccin-con-mayor-beneficio-9LJ {
+  margin: 0rem 55.3rem 0.3rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .empleado-privado-eW2 .auto-group-ic9c-ncE .auto-group-fymy-X42 .usd-rkW {
+  margin-top: 0.7rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .empleado-privado-eW2 .auto-group-ic9c-ncE .auto-group-rhhy-oQr {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .empleado-privado-eW2 .auto-group-ic9c-ncE .auto-group-rhhy-oQr .total-gastos-personales--L9t {
+  margin: 0rem 0.8rem 1.4rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .empleado-privado-eW2 .auto-group-ic9c-ncE .auto-group-rhhy-oQr .se-considera-educacin-vestimenta-vivienda-salud-alimentancin-vestimenta-turismo-nacional-re2 {
+  margin: 0.3rem 19.5rem 0rem 0rem;
+  max-width: 40.1rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .empleado-privado-eW2 .auto-group-ic9c-ncE .auto-group-rhhy-oQr .rectangle-7-8bY {
+  margin: 0.2rem 1.8rem 0rem 0rem;
+  width: 17rem;
+  height: 2.7rem;
+  background-color: #ededed;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .empleado-privado-eW2 .auto-group-ic9c-ncE .auto-group-rhhy-oQr .usd-3Ci {
+  margin-top: 1.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .calculadora-de-impuesto-a-la-renta-YQN {
+  width: 67.6rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contenedor-1-contenedor-2-gDt .aqu-podrs-calcular-tu-reduccin-en-el-impuesto-a-la-renta-de-personas-naturales-de-la-nueva-ley-orgnica-para-el-fortalecimiento-de-la-economa-familiar-rR4 {
+  width: 91.5rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 21.7rem;
+  top: 4.6rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contenedor-1-contenedor-2-gDt .rectangle-6-4X8 {
+  width: 139.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 6.7rem;
+  background-color: #0000a3;
+}
+.contenedor-1-contenedor-2-gDt .deducciones-valor-anual-en-dlares-usd-1BU {
+  width: 50.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 44.7rem;
+  top: 6.7rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #ededed;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contenedor-1-contenedor-2-gDt .periodicidad-hpz {
+  width: 138.1rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 11.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.contenedor-1-contenedor-2-gDt .periodicidad-hpz .auto-group-kg2z-2sG {
+  margin: 0rem 0.3rem 0.8rem 0.2rem;
+  width: calc(100% - 0.5rem);
+  height: 2.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .periodicidad-hpz .auto-group-kg2z-2sG .auto-group-sayk-jFt {
+  box-sizing: border-box;
+  padding-right: 6.4rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .periodicidad-hpz .auto-group-kg2z-2sG .auto-group-sayk-jFt .deduccin-por-discapacidad--2kn {
+  margin-right: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .periodicidad-hpz .auto-group-kg2z-2sG .auto-group-sayk-jFt .frame-2-YDL {
+  margin-bottom: 0.6rem;
+  box-sizing: border-box;
+  padding: 0.2rem 1.2rem 0rem 1.2rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #000000;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .periodicidad-hpz .auto-group-kg2z-2sG .auto-group-sayk-jFt .frame-2-YDL .no-aplica-sWW {
+  margin-right: 0.4rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .periodicidad-hpz .auto-group-kg2z-2sG .auto-group-sayk-jFt .frame-2-YDL .polygon-1-cU6 {
+  margin-bottom: 0.2rem;
+  width: 0.8rem;
+  height: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .periodicidad-hpz .auto-group-kg2z-2sG .calculando-Y6r {
+  margin-right: 1.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.2rem 0.6rem 1.2rem;
+  width: 12.4rem;
+  height: 100%;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ededed;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .periodicidad-hpz .auto-group-kg2z-2sG .usd-zDk {
+  margin: 0.2rem 4.5rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .periodicidad-hpz .auto-group-kg2z-2sG .empleado-publico-KG2 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .periodicidad-hpz .auto-group-kg2z-2sG .empleado-publico-KG2 .deduccin-por-tercera-edad--UPp {
+  margin: 0rem 0.3rem 0.6rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .periodicidad-hpz .auto-group-kg2z-2sG .empleado-publico-KG2 .edad-de-65-aos-y-ms-Q2a {
+  margin: 0rem 31.1rem 0.4rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .periodicidad-hpz .auto-group-kg2z-2sG .empleado-publico-KG2 .usd-7Sn {
+  margin-top: 0.6rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .periodicidad-hpz .auto-group-tomp-Fot {
+  width: 100%;
+  height: 0.1rem;
+  border-top: solid 0.1rem #70c0ff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.contenedor-1-contenedor-2-gDt .boton-siguiente-nYv {
+  width: 17.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 73.7rem;
+  top: 38.2rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0000a3;
+  border-radius: 1rem;
+}
+.contenedor-1-contenedor-2-gDt .calculando-xLv {
+  box-sizing: border-box;
+  padding: 0.7rem 1.1rem;
+  width: 14rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 11rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ededed;
+  border-radius: 1rem;
+}
