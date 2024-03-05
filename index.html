@@ -12,6 +12,19 @@
   <link rel="stylesheet" href="./styles/landing-page.css"/>
   <script>
     document.addEventListener('DOMContentLoaded', function() {
+      var images = document.querySelectorAll('img');
+        images.forEach(function(image) {
+            if (!image.alt) {
+                image.alt = 'Descripción de la imagen';
+            }
+        });
+
+        var elementsWithText = document.querySelectorAll('div, p');
+        elementsWithText.forEach(function(element) {
+            if (!element.getAttribute('aria-label') && element.textContent.trim() !== '') {
+                element.setAttribute('aria-label', element.textContent.trim());
+            }
+        });
         var elements = document.querySelectorAll('*');
         var tabindex = 1;
 
@@ -19,8 +32,11 @@
             elements[i].setAttribute('tabindex', tabindex);
             tabindex++;
         }
+        
     });
+    
 </script>
+
 
 </head>
 <body>
